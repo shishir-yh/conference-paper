@@ -38,21 +38,6 @@ We systematically evaluate how layer-specific features (extracted from the flatt
 
 ---
 
-## 🛠 Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/CNN-Boosting-Image-Classification.git
-   cd CNN-Boosting-Image-Classification
-   ```
-
-2. **Install dependencies:**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
----
-
 ## 🚀 Usage
 
 ### 1️⃣ Train Base CNN
