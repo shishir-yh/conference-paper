@@ -12,7 +12,6 @@ A comprehensive study evaluating the effectiveness of combining convolutional ne
 ## 📌 Table of Contents
 - [Overview](#overview)
 - [Key Features](#key-features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Results](#results)
 - [Future Work](#future-work)
