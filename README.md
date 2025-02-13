@@ -95,7 +95,7 @@ python code/boosting_models.py --model gradient_boost --features_path ./features
 ## 📜 Certificate of Publication
 This research has been officially published. You can view the certificate of publication here:
 
-![Certificate of Publication]((https://ibb.co.com/GvyZkFRW))
+![Certificate of Publication](([https://ibb.co.com/GvyZkFRW]))
 
 ---
 
