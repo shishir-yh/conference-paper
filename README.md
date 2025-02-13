@@ -90,9 +90,11 @@ python code/boosting_models.py --model gradient_boost --features_path ./features
 🔹 Develop a unified API for feature extraction  
 
 ---
-📜 Certificate of Publication
+## 📜 Certificate of Publication
 
 This research has been officially published. You can view the certificate of publication here:
+
+![Certificate of Publication](https://i.ibb.co/996x2GWb/IEEE.jpg)
 
 
 ---
