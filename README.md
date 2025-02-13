@@ -15,7 +15,7 @@ A comprehensive study evaluating the effectiveness of combining convolutional ne
 - [Usage](#usage)
 - [Results](#results)
 - [Future Work](#future-work)
-- [License](#license)
+- [Certificate of Publication](#certificate-of-publication)
 
 ---
 
@@ -56,11 +56,11 @@ python code/boosting_models.py --model gradient_boost --features_path ./features
 
 ### Command Line Arguments
 | Parameter      | Description                         | Default |
-|---------------|-------------------------------------|---------|
-| `--layer`     | Layer for feature extraction       | flatten |
-| `--model`     | Boosting algorithm to use         | xgboost |
-| `--epochs`    | Training epochs for CNN           | 50      |
-| `--batch_size`| Batch size for training           | 32      |
+|---------------|------------------------------------- |---------|
+| `--layer`     | Layer for feature extraction         | flatten |
+| `--model`     | Boosting algorithm to use            | xgboost |
+| `--epochs`    | Training epochs for CNN              | 50      |
+| `--batch_size`| Batch size for training              | 32      |
 
 ---
 
@@ -92,16 +92,14 @@ python code/boosting_models.py --model gradient_boost --features_path ./features
 
 ---
 
-## 📜 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## 📜 Certificate of Publication
+This research has been officially published. You can view the certificate of publication here:
+
+![Certificate of Publication]((https://ibb.co.com/GvyZkFRW))
 
 ---
+
 
 ## 👥 Contributors
 [Yeasir Hossain Shishir] | [subroshishir0@gmail.com] | [East West University]
-
----
-
-
-
 
