@@ -10,13 +10,12 @@ A comprehensive study evaluating the effectiveness of combining convolutional ne
 ---
 
 ## 📌 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [Usage](#usage)
-- [Results](#results)
-- [Future Work](#future-work)
-- [Certificate of Publication](#certificate-of-publication)
-
+- [🌟 Overview](#-overview)
+- [🔑 Key Features](#-key-features)
+- [🚀 Usage](#-usage)
+- [📊 Results](#-results)
+- [🔮 Future Work](#-future-work)
+- [📜 Certificate of Publication](#-certificate-of-publication)
 ---
 
 ## 🌟 Overview
@@ -91,11 +90,10 @@ python code/boosting_models.py --model gradient_boost --features_path ./features
 🔹 Develop a unified API for feature extraction  
 
 ---
+📜 Certificate of Publication
 
-## 📜 Certificate of Publication
 This research has been officially published. You can view the certificate of publication here:
 
-![Certificate of Publication](([https://ibb.co.com/GvyZkFRW]))
 
 ---
 
